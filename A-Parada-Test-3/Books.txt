@@ -1,0 +1,3 @@
+1984, George Orwell, 123456, Yes
+Animal Farm, George Orwell, 654321, No
+Cat in the hat, Dr. Seuss, 555555, Yes
